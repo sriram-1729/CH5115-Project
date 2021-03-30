@@ -1,0 +1,17 @@
+Sources:
+
+1) All the sources mentioned in the paper:
+   a) The original paper: https://arxiv.org/abs/0710.3742
+   b) Gregory Gundersen's blogpost: http://gregorygundersen.com/blog/2019/08/13/bocd/
+   c) Conjugate Bayesian analysis of the Gaussian distribution - Kevin C. Murphy: https://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf
+
+2) Gregory Gundersen's implementation post: http://gregorygundersen.com/blog/2020/10/20/implementing-bocd/
+   And his Python code: https://github.com/gwgundersen/bocd/blob/master/bocd.py
+
+3) An Evaluation of Change Point Detection Algorithms - Gerrit J. J. van den Burg, Christopher K. I. Williams: https://arxiv.org/pdf/2003.06222.pdf
+
+4) James Grant's Masters dissertation: https://www.lancaster.ac.uk/postgrad/grantj/mastersdiss.pdf
+
+5) Jeremy Teitelbaum's article: https://jeremy9959.net/Blog/bayesian-online-changepoint-fixed/
+
+6) Doubly Robust Bayesian Inference for Non-Stationary Streaming Data with β-Divergences - Jeremias Knoblauch, Jack Jewson, Theodoros Damoulas : https://arxiv.org/abs/1806.02261
